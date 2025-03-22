@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
+<h1>Hi 👋, I'm Aman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackwithwhitegreen&label=Profile%20views&color=0e75b6&style=flat" alt="blackwithwhitegreen" /> </p>
 
 - 🔭 I’m currently working on **Machine learning and Data sciene projects**
