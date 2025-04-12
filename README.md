@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
 </p>
-
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
@@ -27,8 +26,6 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=f239a767c16b4e8590d99fa7928e532f&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
@@ -44,8 +41,8 @@
 1. 💪 Opened PR [#1](https://github.com/T0k4m4K/H1DR4_AGENT/pull/1) in [T0k4m4K/H1DR4_AGENT](https://github.com/T0k4m4K/H1DR4_AGENT)
 2. ❌ Closed PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
 3. 💪 Opened PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
-4. 🎉 Merged PR [#1](https://github.com/blackwithwhitegreen/blackwithwhitegreen.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/blackwithwhitegreen/blackwithwhitegreen.github.io)
-5. 💪 Opened PR [#1](https://github.com/blackwithwhitegreen/blackwithwhitegreen.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/blackwithwhitegreen/blackwithwhitegreen.github.io)
+4. 🎉 Merged PR [#1](https://github.com/blackwithwhitegreen/blackwithwhitegreen.github.io/pull/1) in [blackwithwhitegreen/blackwithwhitegreen.github.io](https://github.com/blackwithwhitegreen/blackwithwhitegreen.github.io)
+5. 💪 Opened PR [#1](https://github.com/blackwithwhitegreen/blackwithwhitegreen.github.io/pull/1) in [blackwithwhitegreen/blackwithwhitegreen.github.io](https://github.com/blackwithwhitegreen/blackwithwhitegreen.github.io)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
@@ -78,7 +75,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Dubai
+🕑︎ Time Zone: India
 
 💬 Programming Languages: 
 Python                   2 hrs 47 mins       ██████████████░░░░░░░░░░░   54.76 % 
