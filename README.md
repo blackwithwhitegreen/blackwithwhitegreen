@@ -1,9 +1,9 @@
 # Hi I'm aman 👋
 
 
-![](https://komarev.com/ghpvc/?username=blackwithwhitegreen&color=green)
+![](https://komarev.com/ghpvc/?username=blackwithwhitegreen&color=blueviolet)
 <p align="center">
-  <a href="https://open.spotify.com/collection/tracks">
+  <a href="https://open.spotify.com/playlist/31JlPfioxj4QuGzt4TthwU">
     <img alt="Aman's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
   </a>
 </p>
